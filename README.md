@@ -1,0 +1,1 @@
+This contains coreboot rom for T420
